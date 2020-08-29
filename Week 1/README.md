@@ -1,3 +1,3 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lovesahaj/dsinternship) 
-
 # dsinternship
+
+Analysis and EDA on the dataset and predict the no. of shares of the article using Machine Learing Models
